@@ -14,13 +14,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 
-## Contacts
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavostn)
-![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
 ## Github Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavostn&layout=compact&theme=dark)](https://github.com/gustavostn/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavostn&layout=compact&theme=dark)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavostn&layout=compact&theme=dark) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavostn&layout=compact&theme=dark&hide_rank=true)](https://github.com/gustavostn/github-readme-stats) |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
