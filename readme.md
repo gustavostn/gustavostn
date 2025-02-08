@@ -43,7 +43,7 @@
 
 ## Connect With Me 🤝
 
-If you would like to know more about my career, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/gustavostn) or [email](gustavo.stn@outlook.com.br).
+If you would like to know more about my career, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/gustavostn) or [email](mailto:gustavo.stn@outlook.com.br).
 
 <div align="center">
 
