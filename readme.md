@@ -53,12 +53,10 @@ If you would like to know more about my career, feel free to contact me via [Lin
 </div>
 
 ## GitHub Stats
+<div align="center">
 
-<div align="center" style="display: flex; gap: 16px">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavostn&layout=compact&theme=dark)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavostn&layout=compact&theme=dark&hide_rank=true)](https://github.com/gustavostn/github-readme-stats)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavostn&layout=compact&theme=dark) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavostn&layout=compact&theme=dark&hide_rank=true)](https://github.com/gustavostn/github-readme-stats) |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 
