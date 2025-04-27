@@ -1,8 +1,10 @@
 # Hello World! 🖖
 
-<h4 align="center"><samp>Welcome to my Github! I'm Gustavo and currently work as a Front-end developer for a Fintech company.</samp></h4>
+<h4 align="center"><samp>Welcome to my Github! I'm Gustavo and currently work as a Software developer for Mercado Livre.</samp></h4>
 
 ## Skills
+
+
 
 ### Languages & Frameworks
 
